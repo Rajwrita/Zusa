@@ -47,7 +47,7 @@ sections:
 
         actions: []
       - title: List your fundraiser
-        image: /images/Find a fundraiser on Zusa (3) (1).png
+        image: /images/Find a fundraiser on Zusa (5) (1).png
         image_alt: App user profile preview
         content: >+
           If you are listing fundraisers, add in your details and supporting
