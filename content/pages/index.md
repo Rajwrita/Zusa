@@ -35,7 +35,7 @@ sections:
           shares, it becomes a win-win situation.
 
         actions: []
-      - title: Awesome Feature of Your Services
+      - title: Here's what we offer
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
