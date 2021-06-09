@@ -17,7 +17,6 @@ sections:
     type: section_features
     background: gray
     title: How does it help?
-    subtitle: hasdji
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
