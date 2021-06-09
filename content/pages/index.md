@@ -77,7 +77,7 @@ sections:
       for various causes. 
     actions:
       - label: Contact us!
-        url: 'adzusa/moc.atirwjar,og//:ptth'
+        url: gnicirp/
         style: primary
 seo:
   title: Zusa
