@@ -45,13 +45,7 @@ sections:
           The helper gets options to contribute via viewing ads, short videos,
           filling up surveys, sharing on various social media platforms
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: List your fundraiser
         image: /images/Find a fundraiser on Zusa (3) (1).png
         image_alt: App user profile preview
