@@ -3,13 +3,15 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/2.png
+    image: /images/Zusa__4_-removebg.png
     image_alt: App preview
     content: >
-      ##### Bridging the gap between the help and the need. The fundraiser which
-      makes your shares count and generates money!
+      ##### Bridging the gap between the help and the need.
+
+
+      ##### Zusa makes your shares and views count, and generates money directly
+      for the cause!
     actions: []
-    title: Zusa
   - section_id: features
     type: section_features
     background: gray
