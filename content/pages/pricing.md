@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      If you are an advertiser, thank you for reaching out to us! Join us to be
+      a part of a good cause :)
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
