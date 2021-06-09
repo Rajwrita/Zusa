@@ -19,7 +19,7 @@ sections:
     title: What makes Zusa different?
     features:
       - title: What can you do to help?
-        image: /images/Find a fundraiser on Zusa (2) (1).png
+        image: /images/Saly-6.png
         image_alt: App preview on a phone and tablet
         content: >
           Our generation of young adults are socially responsible citizens who
