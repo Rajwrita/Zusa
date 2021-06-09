@@ -25,9 +25,6 @@ sections:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
   - section_id: call-to-action
     type: section_cta
     title: List your fundraiser!
