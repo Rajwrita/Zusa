@@ -34,13 +34,7 @@ sections:
           fundraiser and simultaneously aid the cause financially through those
           shares, it becomes a win-win situation.
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
