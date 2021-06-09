@@ -32,7 +32,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: List your fundraiser!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Let's come together to help your cause.
     actions:
       - label: Get Started
         url: '#'
