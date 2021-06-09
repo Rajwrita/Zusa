@@ -7,21 +7,20 @@ sections:
     image: /images/amazing-oregano.png
     image_alt: App preview on a phone and tablet
     title: Here's what you need to know before you list your fundraiser
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Thank you for choosing Zusa for your cause. What we can do together is
+      endless. Here are a few pointers before we start.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Please ensure you are submitting all the relevant documents for us to
+      verify
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Set a goal amount that you would like to reach
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Mention the end date for the fundraiser
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Let's get together to act locally and think globally! 
     actions:
       - label: Free Trial
         url: /signup
