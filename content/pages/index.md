@@ -6,12 +6,13 @@ sections:
     image: /images/Zusa__4_-removebg.png
     image_alt: App preview
     content: >
-      ##### Bridging the gap between the help and the need.
+      ######
 
 
       ##### Zusa makes your shares and views count, and generates money directly
       for the cause!
     actions: []
+    title: Bridging the gap between the help and the need.
   - section_id: features
     type: section_features
     background: gray
