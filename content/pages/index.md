@@ -63,6 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            url: go.rajwrita.com/adzusa
     subtitle: >-
       Donate to a fundraiser by watching advertisements, filling surveys,
       sharing on socials. Make your shares and views count! 
