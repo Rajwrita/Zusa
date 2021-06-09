@@ -82,7 +82,7 @@ sections:
       would have invested for advertisements can be shared through this platform
       for various causes. 
     actions:
-      - label: Get Started
+      - label: Contact us!
         url: /signup
         style: primary
 seo:
