@@ -90,7 +90,7 @@ seo:
       value: Zusa
       keyName: property
     - name: 'og:description'
-      value: Zusa facebook
+      value: Bridging the gap between the help and the need.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
