@@ -18,7 +18,7 @@ sections:
     background: gray
     title: What makes Zusa different?
     features:
-      - title: The Best Feature of Your Services
+      - title: What can you do to help?
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
