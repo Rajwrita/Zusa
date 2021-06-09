@@ -90,7 +90,7 @@ seo:
       value: Zusa
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Zusa facebook
       keyName: property
     - name: 'og:image'
       value: images/hero.png
