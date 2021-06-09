@@ -6,8 +6,8 @@ sections:
     background: gray
     title: Contact Us
     content: >
-      If you want to list your fundraiser, fill in the details here. We will
-      reach out to you soon with further updates.
+      If you want to advertise your content on Zusa, please fill up this form.
+      This allows us to get to know you better. 
     form_id: contactForm
     form_fields:
       - input_type: text
