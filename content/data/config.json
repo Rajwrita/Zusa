@@ -1,5 +1,4 @@
 {
-    "title": "Azimuth",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
@@ -15,17 +14,17 @@
             },
             {
                 "label": "Features",
-                "url": "/features",
+                "url": "http://go.rajwrita.com/listzusa",
                 "style": "link"
             },
             {
                 "label": "List your need",
-                "url": "/pricing",
+                "url": "http://go.rajwrita.com/listzusa",
                 "style": "link"
             },
             {
                 "label": "Advertiser",
-                "url": "/style-guide",
+                "url": "http://go.rajwrita.com/listzusa",
                 "style": "link"
             }
         ]
@@ -125,5 +124,6 @@
         ],
         "content": "&copy; Zusa. All rights reserved. "
     },
-    "domain": "https://thoughtful-birch-0bfe7.netlify.app"
+    "domain": "https://thoughtful-birch-0bfe7.netlify.app",
+    "title": "Zusa"
 }
