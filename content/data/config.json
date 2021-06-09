@@ -39,7 +39,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/violet-olive.png",
                 "image_url": "/",
                 "image_alt": "Footer logo"
             },
