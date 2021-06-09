@@ -1,8 +1,8 @@
 ---
 title: Contact us!
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Thank you for thinking about choosing Zusa as a platform to advertise your
+  content and supporting a good cause.
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
