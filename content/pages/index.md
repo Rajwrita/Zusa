@@ -60,7 +60,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: Make your shares and views count!
+    subtitle: >-
+      Make your shares and views count! Donate to a fundraiser by watching
+      advertisements, filling surveys, sharing on socials. 
   - section_id: reviews
     type: section_reviews
     background: white
