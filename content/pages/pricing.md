@@ -33,7 +33,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /contact
+            url: /contact2
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
