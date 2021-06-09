@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: /images/Zusa (4).png
+image: /images/Zusa (4) (1).png
 image_alt: Team members in a conference room
 seo:
   title: About Us
