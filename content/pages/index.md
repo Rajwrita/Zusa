@@ -37,10 +37,10 @@ sections:
       - title: Here's what we offer
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          For every fundraiser listed on the platform, the helper contributes
+          via one of the methods listed.
+
         actions:
           - label: Learn More
             url: /features
