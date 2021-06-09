@@ -6,7 +6,7 @@ sections:
     image: /images/Zusa__4_-removebg.png
     image_alt: App preview
     content: >
-      #####
+      ######
 
 
       ##### Zusa makes your shares and views count, and generates money directly
