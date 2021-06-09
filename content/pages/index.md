@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/Untitled design.png
     image_alt: App preview
     content: >
       ##### Bridging the gap between the help and the need. The fundraiser which
