@@ -125,5 +125,6 @@
         "content": "&copy; Zusa. All rights reserved. "
     },
     "domain": "https://zusa.netlify.app",
-    "title": "Zusa"
+    "title": "Zusa",
+    "favicon": "/images/Rupee.png"
 }
