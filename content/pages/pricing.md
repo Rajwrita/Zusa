@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
-        price: /m
+        price: ₹₹₹
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
