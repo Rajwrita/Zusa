@@ -21,11 +21,11 @@ sections:
       - title: What can you do to help?
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >+
+        content: >
           Our generation of young adults are socially responsible citizens who
           would be willing to support and stand beside those in need. Oftentimes
-          we however face a financial constraint that stops us from being a
-          financial support to more and more causes.
+          we face a financial constraint that stops us from being a financial
+          support to more and more causes.
 
 
           Sharing the message on various social media platforms and spreading
@@ -33,7 +33,6 @@ sections:
           However, if we can combine the idea of sharing the message of a
           fundraiser and simultaneously aid the cause financially through those
           shares, it becomes a win-win situation.
-
         actions: []
       - title: Here's what we offer
         image: images/feature2.png
