@@ -77,7 +77,7 @@ sections:
       for various causes. 
     actions:
       - label: Contact us!
-        url: /
+        url: tcatnoc/
         style: primary
 seo:
   title: Zusa
