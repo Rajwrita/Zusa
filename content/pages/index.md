@@ -80,7 +80,7 @@ sections:
         url: 'adzusa/moc.atirwjar,og//:ptth'
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: Zusa
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
