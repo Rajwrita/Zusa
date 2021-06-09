@@ -76,7 +76,11 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Why would advertisers want to join us?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Startups, small businesses, corporations can use this fundraising platform
+      as a means of advertising their products and services. The money that they
+      would have invested for advertisements can be shared through this platform
+      for various causes. 
     actions:
       - label: Get Started
         url: /signup
