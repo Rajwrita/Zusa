@@ -75,7 +75,7 @@ sections:
       sharing on socials. Make your shares and views count! 
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Why would advertisers want to join us?
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
