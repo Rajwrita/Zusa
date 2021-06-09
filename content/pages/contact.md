@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Contact Us
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      If you want to list your fundraiser, fill in the details here. We will
+      reach out to you soon with further updates. 
     form_id: contactForm
     form_fields:
       - input_type: text
