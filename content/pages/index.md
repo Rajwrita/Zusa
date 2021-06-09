@@ -77,7 +77,6 @@ sections:
       for various causes. 
     actions:
       - label: Contact us!
-        url: gnicirp/
         style: primary
 seo:
   title: Zusa
