@@ -6,8 +6,8 @@ sections:
     image: /images/2.png
     image_alt: App preview
     content: >
-      ##### Bridging the gap between the help and the need. The fundraiser which
-      makes your shares count and generates money!
+      ##### Bridging the gap between the help and the need. Zusa makes your
+      shares and views count, and generates money directly for the cause!
     actions: []
   - section_id: features
     type: section_features
