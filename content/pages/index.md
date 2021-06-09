@@ -62,7 +62,7 @@ sections:
             icon_position: right
     subtitle: >-
       Donate to a fundraiser by watching advertisements, filling surveys,
-      sharing on socials. 
+      sharing on socials. Make your shares and views count! 
   - section_id: reviews
     type: section_reviews
     background: white
