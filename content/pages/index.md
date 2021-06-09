@@ -77,9 +77,6 @@ sections:
     type: section_reviews
     background: white
     title: Why would advertisers want to join us?
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
