@@ -78,6 +78,7 @@ sections:
     actions:
       - label: Contact us!
         style: primary
+        url: /pricing
 seo:
   title: Zusa
   description: Zusa - fundraising platform
