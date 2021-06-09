@@ -77,7 +77,7 @@ sections:
       for various causes. 
     actions:
       - label: Contact us!
-        url: ':ptth'
+        url: tth
         style: primary
 seo:
   title: Stackbit Azimuth Theme
