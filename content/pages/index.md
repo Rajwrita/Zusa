@@ -77,7 +77,7 @@ sections:
       for various causes. 
     actions:
       - label: Contact us!
-        url: '/moc.atirwjar,og//:ptth'
+        url: 'dnuf/moc.atirwjar,og//:ptth'
         style: primary
 seo:
   title: Stackbit Azimuth Theme
