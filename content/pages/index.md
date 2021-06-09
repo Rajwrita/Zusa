@@ -55,10 +55,14 @@ sections:
       - title: List your fundraiser
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          If you are listing fundraisers, add in your details and supporting
+          documents for the fundraiser.
+
+          Wait for verification from Zusa's side. Once verification is done, the
+          fundraiser gets listed on the platform.
+
+
         actions:
           - label: Learn More
             url: /features
