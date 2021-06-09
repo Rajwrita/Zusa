@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Zusa
     content: |
-      ## Bridging the gap between the help and the need.
+      ### Bridging the gap between the help and the need.
     actions:
       - label: Learn More
         url: /features
