@@ -21,10 +21,7 @@ sections:
 
 
       Let's get together to act locally and think globally! 
-    actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: List your fundraiser!
