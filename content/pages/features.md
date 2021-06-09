@@ -35,7 +35,7 @@ sections:
     subtitle: Let's come together to help your cause.
     actions:
       - label: Get Started
-        url: '#'
+        url: /contact
         style: secondary
 seo:
   title: Features
