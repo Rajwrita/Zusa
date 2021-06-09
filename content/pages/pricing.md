@@ -45,7 +45,7 @@ sections:
           * Phasellus lobortis risus laoreet quam
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: secondary
   - section_id: faq
     type: section_faq
