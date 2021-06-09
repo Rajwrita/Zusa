@@ -7,7 +7,7 @@ sections:
     title: Contact Us
     content: >
       If you want to list your fundraiser, fill in the details here. We will
-      reach out to you soon with further updates. 
+      reach out to you soon with further updates.
     form_id: contactForm
     form_fields:
       - input_type: text
