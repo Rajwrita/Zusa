@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: How does it help?
+    title: What makes Zusa different?
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
