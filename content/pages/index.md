@@ -41,6 +41,10 @@ sections:
           For every fundraiser listed on the platform, the helper contributes
           via one of the methods listed.
 
+
+          The helper gets options to contribute via viewing ads, short videos,
+          filling up surveys, sharing on various social media platforms
+
         actions:
           - label: Learn More
             url: /features
