@@ -35,7 +35,7 @@ sections:
           shares, it becomes a win-win situation.
         actions: []
       - title: Here's what we offer
-        image: /images/Find a fundraiser on Zusa.png
+        image: /images/Find a fundraiser on Zusa (1).png
         image_alt: App users welcoming a new member
         content: >+
           For every fundraiser listed on the platform, the helper contributes
