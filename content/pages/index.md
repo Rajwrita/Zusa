@@ -8,10 +8,7 @@ sections:
     content: >
       ##### Bridging the gap between the help and the need. The fundraiser which
       makes your shares count and generates money!
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     title: Zusa
   - section_id: features
     type: section_features
