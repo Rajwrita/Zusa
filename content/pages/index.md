@@ -6,8 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Zusa
-    content: |
-      #### Bridging the gap between the help and the need.
+    content: >
+      #### Bridging the gap between the help and the need. The fundraiser which
+      makes your shares count and generates money!
     actions:
       - label: Learn More
         url: /features
