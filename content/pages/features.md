@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: /images/fierce-goat.png
+    image: /images/amazing-oregano.png
     image_alt: App preview on a phone and tablet
     title: Here's what you need to know before you list your fundraiser
     content: >-
