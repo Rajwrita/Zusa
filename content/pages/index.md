@@ -81,7 +81,7 @@ sections:
         style: primary
 seo:
   title: Zusa
-  description: The preview of the Azimuth theme
+  description: Zusa - fundraising platform
   extra:
     - name: 'og:type'
       value: website
