@@ -27,6 +27,13 @@ sections:
           we however face a financial constraint that stops us from being a
           financial support to more and more causes.
 
+
+          Sharing the message on various social media platforms and spreading
+          the cause does help in amplifying the voices of those in need.
+          However, if we can combine the idea of sharing the message of a
+          fundraiser and simultaneously aid the cause financially through those
+          shares, it becomes a win-win situation.
+
         actions:
           - label: Learn More
             url: /features
