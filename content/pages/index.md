@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/2.png
+    image: /images/Zusa__4_-removebg.png
     image_alt: App preview
     content: >
       ##### Bridging the gap between the help and the need. Zusa makes your
