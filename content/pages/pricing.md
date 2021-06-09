@@ -17,7 +17,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - label: Order Now
-            url: /home
+            url: /contact
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
