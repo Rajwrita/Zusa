@@ -80,17 +80,17 @@ sections:
         url: 'adzusa/moc.atirwjar,og//:ptth'
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Zusa
+  description: Zusa - fundraising platform
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Zusa
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Zusa facebook
       keyName: property
     - name: 'og:image'
       value: images/hero.png
